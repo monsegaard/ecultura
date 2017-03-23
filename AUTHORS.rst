@@ -1,5 +1,5 @@
 Authors
 -------
 
-* Arild M. Halvorsen 
-*
+* May-Helen Hansen
+* Arild M. Halvorsen
